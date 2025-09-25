@@ -3,11 +3,11 @@ layout: default
 title: webshell
 ---
 
-<!-- # [webshell](https://adilhayyi.github.io/webshell) -->
+<!-- # [webshell](https://adilhyz.github.io/webshell) -->
 
 <a id="top"></a>
 
-![hudaw](https://adilhayyi.github.io/webshell/screenshot.png)
+![hudaw](https://adilhyz.github.io/webshell/screenshot.png)
 
 Shell Backdoor, could be useful for the needs of
 
@@ -15,7 +15,7 @@ Shell Backdoor, could be useful for the needs of
  
 <p class="text">This is just collection for educational purposes only. Use it responsibly and only on systems for which you have explicit permission. Unauthorized use of this tool is illegal and unethical, Author not responsible if there is any mess.</p>
 
-Author: [adilhyz](https://adilhayyi.github.io)
+Author: [adilhyz](https://adilhyz.github.io)
 
 
 ## **Category ⛱**
