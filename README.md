@@ -287,6 +287,18 @@ Author: [adilhyz](https://adilhyz.github.io)
 - **Password:** -
 - [**Download**](https://adilhyz.github.io/webshell/PHP/me/ayanami.php) | [**Raw**](https://raw.githubusercontent.com/adilhyz/webshell/master/PHP/me/ayanami.php)
 
+### Naxtarrr Shell
+
+[![Naxtarrr](https://adilhyz.github.io/webshell/preview/NAX.webp)](https://adilhyz.github.io/webshell/preview/NAX.webp)
+
+- **Size:** 39kb
+- **Version:** -
+- **Password:** -
+- [**Download**](https://adilhyz.github.io/webshell/PHP/naxc.php) | [**Raw**](https://raw.githubusercontent.com/adilhyz/webshell/master/PHP/naxc.php)
+
+
+
+
 ### VOidGate Shell
 
 [![VoidGate show](https://adilhyz.github.io/webshell/preview/void.webp)](https://adilhyz.github.io/webshell/preview/void.webp)
