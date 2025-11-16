@@ -7,7 +7,7 @@ title: webshell
 
 <a id="top"></a>
 
-![hudaw](https://adilhyz.github.io/webshell/screenshot.png)
+![hudaw](https://adilhyz.github.io/webshells/screenshot.png)
 
 Shell Backdoor, could be useful for the needs of
 
